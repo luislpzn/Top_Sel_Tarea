@@ -1,1 +1,1 @@
-echo Hola, Soy 18330460
+echo 018330460
